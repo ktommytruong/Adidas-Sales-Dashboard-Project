@@ -18,3 +18,4 @@ The dashboard is available [here](https://public.tableau.com/app/profile/tommy.t
 - Between the three sales method: (in-store, online, outlet) in-store sales yielded the best-result with sales of $357M compared to the lowest method which was online with $247M **(a difference of $110M)**
 - New York, California, Florida, and Texas have the highest number of sales by state compared to every other state
 ## Takeaways 
+As someone who has never used Tableau, this was a great project to learn and follow along with. From this project I learned that, design is equally important as the visualizations themselves. Size, spacing, color, and readability can greatly impact the way we comprehend dashboards. 
